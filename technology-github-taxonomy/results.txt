@@ -1,0 +1,349 @@
+Amp;amphp
+ --MySQL;mysql
+ --SQL;sql
+Dependency management;dependency-management
+Emulator;emulator
+ --Bot;bot
+Jekyll;jekyll
+The Julia Language;julia
+Monitoring;monitoring
+MvvmCross;mvvmcross
+NativeScript;nativescript
+ --Android;android
+ --iOS;ios
+ --Firebase;firebase
+Parsing;parsing
+Perl;perl
+ --Command line interface;cli
+Objective-C;objective-c
+PICO-8;pico-8
+ --Game engine;game-engine
+Qt;qt
+ASP.NET;aspnet
+ --Server;server
+ --Server;server
+Koa;koa
+ --Crystal;crystal
+Compiler;compiler
+ --Rust;rust
+ --Kotlin;kotlin
+ --Babel;babel
+ --Crystal;crystal
+Crystal;crystal
+ --HTTP;http
+ --GraphQL;graphql
+Ember;ember
+ --Storybook;storybook
+Emacs;emacs
+Framework;framework
+ --Vue.js;vue
+ --Django;django
+ --Laravel;laravel
+ --Spring Boot;spring-boot
+ --Rails;rails
+ --Symfony;symfony
+ --CSS;css
+Babel;babel
+ --Documentation;documentation
+ --React;react
+Haskell;haskell
+Homebrew;homebrew
+ --Command line interface;cli
+SpaceVim;spacevim
+Rails;rails
+Bitcoin;bitcoin
+Phaser;phaser
+ESLint;eslint
+ --JavaScript;javascript
+Ajax;ajax
+Sketch;sketch
+Gradle;gradle
+Ratchet;ratchet
+ --Server;server
+Monero;monero
+Ruby;ruby
+ --Rails;rails
+ --Jekyll;jekyll
+ --Vagrant;vagrant
+Scala;scala
+Nim;nim
+ --Node.js;nodejs
+3D;3d
+Command line interface;cli
+MATLAB;matlab
+OpenGL;opengl
+Operating system;operating-system
+Material Design;material-design
+Symfony;symfony
+Data structures;data-structures
+Clojure;clojure
+scikit-learn;scikit-learn
+macOS;macos
+ --Command line interface;cli
+ --Qt;qt
+Icon font;icon-font
+ --React;react
+ --Vue.js;vue
+Localization (l10n);localization
+jQuery;jquery
+ReactiveUI;reactiveui
+Software-defined networking;sdn
+Vim;vim
+Android;android
+ --React Native;react-native
+ --React Native;react-native
+Minecraft;minecraft
+Emoji;emoji
+Django;django
+ --Wagtail;wagtail
+ --Wagtail;wagtail
+Homebridge;homebridge
+Font;font
+Gulp;gulp
+JSON;json
+ --Command line interface;cli
+ --Command line interface;cli
+ --Go;go
+ --Server;server
+HTTP;http
+ --Command line interface;cli
+ --Crystal;crystal
+ --Mongoose;mongoose
+LaTeX;latex
+Jupyter Notebook;jupyter-notebook
+ --Machine learning;machine-learning
+ --Machine learning;machine-learning
+Kubernetes;kubernetes
+Mastodon;mastodon
+ --Documentation;documentation
+Documentation;documentation
+ --Storybook;storybook
+Natural language processing;nlp
+P2P;p2p
+ --Bitcoin;bitcoin
+ --IPFS;ipfs
+ --Monero;monero
+MySQL;mysql
+ --Server;server
+ --Server;server
+Package manager;package-manager
+ --Command line interface;cli
+npm;npm
+ --Command line interface;cli
+ --Command line interface;cli
+ --Command line interface;cli
+Pixel Art;pixel-art
+R;r
+PWA;pwa
+ --Angular;angular
+Project management;project-management
+.NET;dotnet
+ --Server;server
+Publishing;publishing
+Raspberry Pi;raspberry-pi
+ --Qt;qt
+ --Documentation;documentation
+Maven;maven
+Rust;rust
+ --Ruby;ruby
+Serverless;serverless
+ --Command line interface;cli
+Shell;shell
+ --Git;git
+Server;server
+ --Express;express
+Telegram;telegram
+Twitter;twitter
+Terminal;terminal
+ --Command line interface;cli
+Tensorflow;tensorflow
+ --Swift;swift
+ --Rust;rust
+Vue.js;vue
+ --Storybook;storybook
+ --Framework;framework
+Unity;unity
+Vagrant;vagrant
+Ubuntu;ubuntu
+Unreal Engine;unreal-engine
+Virtual reality;virtual-reality
+Code review;code-review
+Code quality;code-quality
+Chrome extension;chrome-extension
+Deployment;deployment
+ --Rails;rails
+Support;support
+ --Project management;project-management
+ --Docker;docker
+Bot;bot
+Electron;electron
+GitHub API;github-api
+IPFS;ipfs
+Storybook;storybook
+ --React Native;react-native
+Wagtail;wagtail
+Mobile;mobile
+ --React Native;react-native
+ --Framework;framework
+ --Android;android
+Google;google
+Chrome;chrome
+ --Electron;electron
+Ethereum;ethereum
+PostgreSQL;postgresql
+ --Crystal;crystal
+Spring Boot;spring-boot
+REST API;rest-api
+ --Command line interface;cli
+NoSQL;nosql
+Sass;sass
+ --Bootstrap;bootstrap
+ --CSS;css
+Arduino;arduino
+Machine learning;machine-learning
+ --Tensorflow;tensorflow
+ --scikit-learn;scikit-learn
+ --The Julia Language;julia
+Game engine;game-engine
+C++;cpp
+GraphQL;graphql
+ --Crystal;crystal
+Continuous integration;continuous-integration
+Firefox;firefox
+Git;git
+ --Command line interface;cli
+Terraform;terraform
+ --Command line interface;cli
+ --Amazon Web Services;aws
+Mongoose;mongoose
+Elixir;elixir
+Markdown;markdown
+ --Jekyll;jekyll
+Lua;lua
+Java;java
+ --Spring Boot;spring-boot
+ --Gradle;gradle
+C#;csharp
+ --Server;server
+C;c
+ --Git;git
+ --Vim;vim
+ --Ruby;ruby
+Flask;flask
+Bootstrap;bootstrap
+Security;security
+ --Monero;monero
+Swift;swift
+SQL;sql
+ --Server;server
+ --MySQL;mysql
+ --Server;server
+Database;database
+ --MySQL;mysql
+Testing;testing
+ --Storybook;storybook
+Redux;redux
+ --React;react
+Laravel;laravel
+ --Framework;framework
+ --Framework;framework
+Hacktoberfest;hacktoberfest
+ --Rust;rust
+ --Terminal;terminal
+ --Git;git
+ --The Julia Language;julia
+ --React;react
+ --Symfony;symfony
+Angular;angular
+ --Storybook;storybook
+ASP.NET;aspnet
+Bitcoin;bitcoin
+CSS;css
+ --Bootstrap;bootstrap
+ --Electron;electron
+ --Ratchet;ratchet
+React;react
+ --React Native;react-native
+ --Storybook;storybook
+Firebase;firebase
+Django;django
+Library;library
+ --React;react
+ --Python;python
+Front end;frontend
+ --React;react
+ --Vue.js;vue
+HTML;html
+ --Bootstrap;bootstrap
+ --Electron;electron
+ --Storybook;storybook
+ --Rails;rails
+ --Ratchet;ratchet
+ --Framework;framework
+Express;express
+ --Crystal;crystal
+MongoDB;mongodb
+ --Mongoose;mongoose
+PHP;php
+ --Laravel;laravel
+ --Framework;framework
+ --Symfony;symfony
+ --Server;server
+API;api
+ --Command line interface;cli
+ --Server;server
+ --Crystal;crystal
+ --Server;server
+Cryptocurrency;cryptocurrency
+ --Bitcoin;bitcoin
+ --Monero;monero
+ --Go;go
+JavaScript;javascript
+ --React;react
+ --Vue.js;vue
+ --Bootstrap;bootstrap
+ --Electron;electron
+ --Angular;angular
+ --Storybook;storybook
+ --Express;express
+ --Babel;babel
+ --Phaser;phaser
+Python;python
+ --Tensorflow;tensorflow
+ --Django;django
+ --Flask;flask
+ --scikit-learn;scikit-learn
+ --Command line interface;cli
+Algorithm;algorithm
+Bash;bash
+Docker;docker
+ --Mastodon;mastodon
+ --Server;server
+Amazon Web Services;aws
+ --Serverless;serverless
+MySQL;mysql
+Kotlin;kotlin
+ --Gradle;gradle
+ --Android;android
+ --Android;android
+ --Android;android
+TypeScript;typescript
+ --Angular;angular
+ --Storybook;storybook
+ --React;react
+iOS;ios
+ --React Native;react-native
+ --Qt;qt
+React Native;react-native
+ --Storybook;storybook
+Go;go
+ --Kubernetes;kubernetes
+ --Command line interface;cli
+Android;android
+Linux;linux
+ --Command line interface;cli
+Node.js;nodejs
+ --Electron;electron
+ --Express;express
+ --Mongoose;mongoose
+ --MySQL;mysql
