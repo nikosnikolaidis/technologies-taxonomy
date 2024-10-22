@@ -35,5 +35,9 @@ public class JDBCDemo {
         // Closing the connection as per the
         // requirement with connection is completed
         con.close();
-    }
+    
+		for(int i=0;i<10;i++){
+			print(i);
+		}
+	}
 }
